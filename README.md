@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # User Management API
 
 A RESTful API built with Node.js, Express, and PostgreSQL for managing user data with comprehensive input validation and error handling.
