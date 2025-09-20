@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # User Management API
 
 A RESTful API built with Node.js, Express, and PostgreSQL for managing user data with comprehensive input validation and error handling.
@@ -510,3 +511,7 @@ If you have any questions or need help, please open an issue in the repository.
 ---
 
 **Happy Coding! 🎉**
+=======
+# ExpressNodeDockerTier2
+TwoTierNodeDocker – A two-tier Node.js RESTful API built with Express and PostgreSQL, fully containerized with Docker. This project provides complete CRUD operations for user management, includes input validation, and follows a structured, maintainable architecture suitable for production-ready applications.
+>>>>>>> aaefd95fdfe8d4e6766c4d0cb314cf4fa2930563
